@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fakgbeng
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript/HTML/CSS
+- 🌱 I’m senior Web Developer
 - 💞️ I’m looking to collaborate on programming language
 - 📫 How to reach me https://www.linkedin.com/in/gbenga-fakorede-8ba388231 or https://twitter.com/fakoredegbenga4
 
